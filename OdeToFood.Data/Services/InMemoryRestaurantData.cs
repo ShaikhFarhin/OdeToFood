@@ -13,6 +13,7 @@ namespace OdeToFood.Data.Services
         {
             restaurants = new List<Restaurant>()
             {
+                //Test Github Check ins
                 new Restaurant { Id = 1, Name = "Scott's Pizza", Cuisine = CuisineType.Italian},
                 new Restaurant { Id = 2, Name = "Tersiguels", Cuisine = CuisineType.French},
                 new Restaurant { Id = 3, Name = "Mango Grove", Cuisine = CuisineType.Indian},
